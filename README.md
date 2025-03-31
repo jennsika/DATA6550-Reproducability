@@ -15,7 +15,7 @@
   - Figures <br>
   - Results <br>
 ## Environment <br>
-  - Python version: 3.9.12
-  - Libraries: Pandas (1.5.3), Scikit-learn (1.2.2), Matplotlib (3.7.2), NumPy (1.24.3)
+  - Python version: 3.11.4
+  - Libraries: Pandas, Scikit-learn, Matplotlib, NumPy
   - Package Manager: Conda
   - IDE: Jupyter Notebook 
