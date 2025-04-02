@@ -1,9 +1,7 @@
 # DATA6550-Reproducability
 
 ## Code <br>
- - Kates <br>
- - Patel <br>
- - Sika <br>
+ - All code is uploaded in the GitHub via Jupyter Notebook.
 ## Data <br>
   - [Original](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge) <br>
   - Our processed data is too large to upload. <br>
